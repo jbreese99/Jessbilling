@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jessbilling/static/css/main.3b7a0fc0.css",
+    "main.js": "/Jessbilling/static/js/main.f8496aec.js",
+    "index.html": "/Jessbilling/index.html",
+    "main.3b7a0fc0.css.map": "/Jessbilling/static/css/main.3b7a0fc0.css.map",
+    "main.f8496aec.js.map": "/Jessbilling/static/js/main.f8496aec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b7a0fc0.css",
+    "static/js/main.f8496aec.js"
+  ]
+}
